@@ -6,4 +6,6 @@
 </div>
 
 Pagina informativa sobre el anime tokyo revengers con un poco de bootstrap.
-https://valentinzoia.github.io/apweb.github.io/clase5/
+<img src='./clase5/images/tr-1.png' />
+<img src='./clase5/images/tr-2.png' />
+<img src='./clase5/images/tr-3.png' />
